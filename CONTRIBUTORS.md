@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Damianson] (https://github.com/Damianson)
+- Place: Warri, Delta State, Nigeria
+- Bio: Frontend Web Developer and Python Programmer
+- Github: [Damianson] (https://github.com/Damianson)
